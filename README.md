@@ -13,9 +13,9 @@ This project is a password generator. You're able to select which criteria to in
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![HTML][https://html.com/]][HTML]
-* [![CSS][https://developer.mozilla.org/en-US/docs/Web/CSS]][CSS]
-* [![JavaScript][https://www.javascript.com/]][JavaScript]
+* [HTML](https://html.com/)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://www.javascript.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
